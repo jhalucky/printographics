@@ -95,6 +95,7 @@ header.sticky {
     justify-content: center;
     align-items: center;
     padding: 50px 8% 0;
+    padding: 10%;
     overflow: hidden;
 }
 
