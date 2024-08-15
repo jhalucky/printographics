@@ -251,7 +251,7 @@ header.sticky {
 .portfolio-container {
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    padding-left: 8%;
+    padding-left: 3%;
     align-items: stretch;
     justify-content: center;
     gap: 2rem;
@@ -457,6 +457,7 @@ header.sticky {
 
     .portfolio h2{
         margin-bottom: 3rem;
+        padding-left: 15%;
     }
 
     .portfolio-container {
